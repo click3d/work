@@ -1,0 +1,28 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "typeName": "functionInput",
+            "name": "Input",
+            "label": "Input",
+            "x": 191,
+            "y": 93,
+            "width": 100,
+            "inputs": [],
+            "outputs": [
+                {
+                    "name": "input",
+                    "label": "",
+                    "dataType": "geometry",
+                    "isDynamic": true,
+                    "controls": {}
+                }
+            ],
+            "controls": {},
+            "data": {},
+            "config": {}
+        }
+    ],
+    "links": [],
+    "data": {}
+}

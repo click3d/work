@@ -1,0 +1,42 @@
+{
+    "name": "p4",
+    "id": "p4@19A1A7EF-3E65-485A-B4B4-9A8A115C0872",
+    "sceneId": "p4@19A1A7EF-3E65-485A-B4B4-9A8A115C0872.nodes",
+    "seed": 1881105867,
+    "labels": [
+        {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "name": "none",
+            "visible": false,
+            "color": "white"
+        },
+        {
+            "id": "00000000-0000-0000-0000-000000000002",
+            "name": "north",
+            "visible": true,
+            "color": "blue"
+        },
+        {
+            "id": "00000000-0000-0000-0000-000000000001",
+            "name": "east",
+            "visible": true,
+            "color": "lime"
+        },
+        {
+            "id": "00000000-0000-0000-0000-000000000004",
+            "name": "south",
+            "visible": true,
+            "color": "navy"
+        },
+        {
+            "id": "00000000-0000-0000-0000-000000000003",
+            "name": "west",
+            "visible": true,
+            "color": "green"
+        }
+    ],
+    "profiles": [],
+    "functions": [],
+    "variables": [],
+    "variations": []
+}
