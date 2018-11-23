@@ -68,51 +68,6 @@
                 "labels": {}
             },
             "config": {}
-        },
-        {
-            "id": 3,
-            "typeName": "extrusion",
-            "name": "Extrude",
-            "label": "Extrude",
-            "x": 543.75,
-            "y": 32.25,
-            "width": 100,
-            "inputs": [
-                {
-                    "name": "input",
-                    "dataType": "geometry",
-                    "defName": "input",
-                    "controls": {}
-                }
-            ],
-            "outputs": [
-                {
-                    "name": "output",
-                    "dataType": "geometry",
-                    "defName": "output",
-                    "controls": {}
-                },
-                {
-                    "name": "sides",
-                    "dataType": "geometry",
-                    "defName": "sides",
-                    "controls": {}
-                },
-                {
-                    "name": "caps",
-                    "dataType": "geometry",
-                    "defName": "caps",
-                    "controls": {}
-                }
-            ],
-            "controls": {},
-            "data": {
-                "amount": 1,
-                "range": "",
-                "merge": false,
-                "labels": {}
-            },
-            "config": {}
         }
     ],
     "links": [
@@ -120,12 +75,6 @@
             "outputNode": 0,
             "outputSocket": 0,
             "inputNode": 1,
-            "inputSocket": 0
-        },
-        {
-            "outputNode": 1,
-            "outputSocket": 1,
-            "inputNode": 2,
             "inputSocket": 0
         }
     ],
