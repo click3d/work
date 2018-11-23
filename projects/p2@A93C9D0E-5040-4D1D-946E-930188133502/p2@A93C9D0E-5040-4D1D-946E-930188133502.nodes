@@ -20,7 +20,7 @@
             ],
             "controls": {},
             "data": {
-                "file": "F159A076-AA2F-4AE1-987C-86E625D80BA4"
+                "file": "7F600100-4A9B-42A5-96E0-FAC423A3B234"
             },
             "config": {}
         },
@@ -29,8 +29,8 @@
             "typeName": "extrusion",
             "name": "Extrude",
             "label": "Extrude",
-            "x": 355,
-            "y": 72,
+            "x": 409.5,
+            "y": 50.5,
             "width": 100,
             "inputs": [
                 {
@@ -68,51 +68,6 @@
                 "labels": {}
             },
             "config": {}
-        },
-        {
-            "id": 3,
-            "typeName": "extrusion",
-            "name": "Extrude",
-            "label": "Extrude",
-            "x": 522.5,
-            "y": 59,
-            "width": 100,
-            "inputs": [
-                {
-                    "name": "input",
-                    "dataType": "geometry",
-                    "defName": "input",
-                    "controls": {}
-                }
-            ],
-            "outputs": [
-                {
-                    "name": "output",
-                    "dataType": "geometry",
-                    "defName": "output",
-                    "controls": {}
-                },
-                {
-                    "name": "sides",
-                    "dataType": "geometry",
-                    "defName": "sides",
-                    "controls": {}
-                },
-                {
-                    "name": "caps",
-                    "dataType": "geometry",
-                    "defName": "caps",
-                    "controls": {}
-                }
-            ],
-            "controls": {},
-            "data": {
-                "amount": 2,
-                "range": "",
-                "merge": false,
-                "labels": {}
-            },
-            "config": {}
         }
     ],
     "links": [
@@ -120,12 +75,6 @@
             "outputNode": 0,
             "outputSocket": 0,
             "inputNode": 1,
-            "inputSocket": 0
-        },
-        {
-            "outputNode": 1,
-            "outputSocket": 1,
-            "inputNode": 2,
             "inputSocket": 0
         }
     ],
